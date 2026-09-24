@@ -1,4 +1,9 @@
 # Jacob Crosbie
+
+<p align="center">
+  <img src="./Image.jpeg" alt="Jacob Crosbie" width="320">
+</p>
+
 Software Engineer.
 
 I like building things from scratch when I probably shouldn't.
