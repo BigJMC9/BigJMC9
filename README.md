@@ -1,9 +1,5 @@
 # Jacob Crosbie
-
-Software & AI Engineer.
-
-> The Great Sage of Undefined Behaviour.  
-> Familiar with Ancient Grimoires and the Dark Arts of C and x86-64 Assembly.
+Software Engineer.
 
 I like building things from scratch when I probably shouldn't.
 
@@ -16,5 +12,3 @@ Mostly interested in **systems programming, operating systems, local AI, graphic
 `C` `C++` `Assembly` `Python` `TypeScript` `Vulkan`
 
 Currently making JCOS do increasingly questionable things on real hardware and messing around with local LLMs.
-
-*"What could possibly go wrong?"*
