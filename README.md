@@ -1,6 +1,6 @@
 # Jacob Crosbie
 
-<img align="left" src="./Image2.jpeg" alt="Jacob Crosbie" width="300">
+<img align="left" src="./Image2.jpeg" alt="Jacob Crosbie" width="300" hspace="12">
 
 **Software Engineer.**
 
