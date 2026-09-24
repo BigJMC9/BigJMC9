@@ -1,7 +1,7 @@
 # Jacob Crosbie
 
 <p align="center">
-  <img src="./Image.jpeg" alt="Jacob Crosbie" width="320">
+  <img src="./Image2.jpeg" alt="Jacob Crosbie" width="320">
 </p>
 
 Software Engineer.
