@@ -1,6 +1,6 @@
 # Jacob Crosbie
 
-<p align="center">
+<p align="left">
   <img src="./Image2.jpeg" alt="Jacob Crosbie" width="320">
 </p>
 
